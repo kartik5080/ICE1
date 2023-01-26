@@ -10,6 +10,7 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant May 2020
  modifier kartik5080
+ fetch+merge
  */
 public class Card {
 
